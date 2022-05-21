@@ -11421,9 +11421,8 @@ header.masthead {
   background-image: url("../assets/img/female-shooter-header.jpg");
   background-repeat: no-repeat;
   background-attachment: scroll;
-  background-position: center center;
+  background-position: center;
   background-size: cover;
-  height: 1250px;
 }
 
 
