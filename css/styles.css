@@ -11418,11 +11418,12 @@ header.masthead {
   padding-bottom: 6rem;
   text-align: center;
   color: #fff;
-  background-image: url("../assets/img/female-shooter-header.jpg");
+  background-image: url("../assets/img/NewHeaderImage-logo@0.png");
   background-repeat: no-repeat;
   background-attachment: scroll;
   background-position: center;
   background-size: cover;
+  height: 800px;
 }
 
 
